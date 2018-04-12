@@ -1,0 +1,153 @@
+/* stylesheet.css */
+
+
+body {background-color: #fafafa;}
+
+#tagliner {color:#cdd0d5;
+font-family: 'Comfortaa', cursive;
+font-size: 16px;
+text-align: center;
+margin: auto;
+}
+
+#headliner {color:#fc846b;
+font-family: 'Comfortaa', cursive;
+font-size: 80px;
+text-align: center;
+padding-bottom: 10px;
+margin: auto;
+}
+
+#footliner {color:#cdd0d5;
+font-family: 'Comfortaa', cursive;
+font-size: 10px;
+text-align: center;
+padding-top: 0px;
+padding-bottom: 0px;
+position:fixed;
+bottom:0;
+left:0;
+right:0;
+height:30px;
+}
+
+.footer {height:2rem;
+  width:100%}
+
+.gobits_box {
+position:absolute; 
+bottom:0;
+left:0;
+font-size:2.5rem;
+font-family: 'Comfortaa';
+color:#fc846b;
+padding:1rem 2rem}
+
+.loggyinny{
+  position:absolute;
+  position:absolute; 
+  top:0;
+  right:0;
+  font-size:12px;
+  font-family: 'Comfortaa';
+  color:#000000;
+  padding:1rem 2rem;
+  z-indeX:99999;
+text-decoration: none;}
+
+.slogan_box {
+position:absolute; 
+bottom:0;
+right:0;
+font-size:1.3rem;
+font-family: 'Comfortaa';
+color:#fc846b;
+padding:1rem 2rem
+}
+
+.outer_box {
+display:flex;
+flex-direction:column;
+min-height:100%;
+  font-family: 'Comfortaa';
+}
+
+.inner_box {
+  width:100%;
+  flex:1;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center}
+
+.inner_box_howdy {
+  width:100%;
+  flex:1;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center}
+
+.goalBoxdad{
+  font-size:3rem;
+  width:80%;
+  font-family: 'Comfortaa';
+  transition:transform .5s, margin .5s}
+
+.goalBox_howdy{
+  font-size:2rem;
+  width:60%;
+  font-family: 'Comfortaa';
+  transition:transform .5s, margin .5s;
+padding-bottom:25px;}
+
+.splash-goals {
+  position:relative;
+  min-height:2em;
+  margin:.5rem
+}
+
+/*button deets*/
+.lets-gobit-btn {
+  background-color: #fc846b;
+  color: white;
+  font-weight:bold;
+  padding: 13px 25px;
+  border-radius: 8px;
+  text-align: center;
+  align: center;
+  text-decoration: none;
+  font-size: 20px;
+}
+/* goal hopper css*/
+.goalStagnant {
+  color: #000000;
+  font-size: 50px;
+  text-align: left;
+  vertical-align: middle;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#goalHop {
+  color:#8d949e;
+  font-size:80%;
+  padding:11px 23px
+}
+.goalBox {
+  display: block;
+  width: 100%;
+  font-family: 'Comfortaa';
+  padding-top: 160px;
+  text-decoration: none;
+  position: fixed;
+}
+.center-btn {
+  text-align: center;
+}
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+
