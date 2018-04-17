@@ -104,7 +104,13 @@ padding-bottom:25px;}
 .splash-goals {
   position:relative;
   min-height:2em;
-  margin:0rem
+  margin:.5 rem
+}
+.phrasage {
+font-size:1.3rem;
+font-family: 'Comfortaa';
+color:#fc846b;
+padding:1rem 2rem
 }
 
 /*button deets*/
