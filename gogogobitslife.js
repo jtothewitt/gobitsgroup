@@ -17,12 +17,9 @@ $(document).ready(function() {
 });
 
 var words = [
-    "be a gobit!",
-    "get a promotion.",
-    "call mom more.",
-    "travel to asia.",
-    "learn to code.",
-    "buy a house."
+    "learn more.",
+    "engage better.",
+    "spend less."
   ],
   i = 0;
 
