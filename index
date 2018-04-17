@@ -19,7 +19,7 @@
 <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
   <!-- style sheet -->
 <link rel="stylesheet" href="stylesheet.css">
-  <title> rethink employees engagement. </title>
+  <title> rethink employee engagement. </title>
 </head>
   
 <body>
@@ -31,10 +31,11 @@
   </div>
 <div class="inner_box" style="position: relative;">
 <div class="goalBoxdad">
-  <div class="row">
-  <div class="col"> change the way you do employee engagement...</div>
-    <div class="col"> XXXXXXXXXXXXXX </div>
-        </div>
+  <div> change the way you do employee engagement...</div>
+  <br>
+  <div class="phrasage"> employees set goals, you help them get there. </div>
+  
+  <div> employees set goals, you help them get there. </div>
     <div class="splash-goals">
       <div> <span id="goalHop"> run a 10k. </span>
       </div>
