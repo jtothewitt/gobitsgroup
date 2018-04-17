@@ -18,6 +18,7 @@ $(document).ready(function() {
 
 var words = [
     "engage better.",
+  "learn more."
   "spend less."
   ],
   i = 0;
