@@ -17,9 +17,8 @@ $(document).ready(function() {
 });
 
 var words = [
-    "learn more.",
     "engage better.",
-    "spend less."
+  "spend less."
   ],
   i = 0;
 
